@@ -5,7 +5,12 @@
 
 ## 课程目录
 
-### 1. 基础知识（1）
+#### 1. 基础知识（1）
 
-### 2. 基础知识（2）
+#### 2. 基础知识（2）
+
+1. [序列求和法](https://github.com/JessonKang/The-design-and-analysis-of-algorithm/blob/master/2.基础知识(2)/算法的数学基础.md
+   )
+2. [递归方程与算法分析](https://github.com/JessonKang/The-design-and-analysis-of-algorithm/blob/master/2.基础知识(2)/算法的数学基础.md
+   )
 
