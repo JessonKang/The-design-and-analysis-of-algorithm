@@ -1,1 +1,11 @@
-# The-design-and-analysis-of-algorithm
+# 《算法设计与分析》
+
+​		这是来自MOOC上开设的[算法课程](https://www.icourse163.org/course/PKU-1002525003
+)，授课老师是北大的屈婉玲教授，这里是对听课内容所做的一些笔记，感谢屈婉玲老师、MOOC网站的无私奉献。
+
+## 课程目录
+
+week1 基础知识（1）
+
+week2 基础知识（2）
+
