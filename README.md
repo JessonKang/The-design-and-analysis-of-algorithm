@@ -15,4 +15,5 @@
    )
 3. [迭代法求解递推方程](https://github.com/JessonKang/The-design-and-analysis-of-algorithm/blob/master/2.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86(2)/3.%E8%BF%AD%E4%BB%A3%E6%B3%95%E6%B1%82%E8%A7%A3%E9%80%92%E6%8E%A8%E6%96%B9%E7%A8%8B.md)
 4. [差消法化简高阶递推方程](https://github.com/JessonKang/The-design-and-analysis-of-algorithm/blob/master/2.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86(2)/4.%E5%B7%AE%E6%B6%88%E6%B3%95%E5%8C%96%E7%AE%80%E9%AB%98%E9%98%B6%E9%80%92%E6%8E%A8%E6%96%B9%E7%A8%8B.md)
+5. [递归树](https://github.com/JessonKang/The-design-and-analysis-of-algorithm/blob/master/2.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86(2)/5.%E9%80%92%E5%BD%92%E6%A0%91.md)
 
