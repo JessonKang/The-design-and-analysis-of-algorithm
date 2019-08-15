@@ -14,4 +14,5 @@
 2. [递归方程与算法分析](https://github.com/JessonKang/The-design-and-analysis-of-algorithm/blob/master/2.基础知识(2)/算法的数学基础.md
    )
 3. [迭代法求解递推方程](https://github.com/JessonKang/The-design-and-analysis-of-algorithm/blob/master/2.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86(2)/3.%E8%BF%AD%E4%BB%A3%E6%B3%95%E6%B1%82%E8%A7%A3%E9%80%92%E6%8E%A8%E6%96%B9%E7%A8%8B.md)
+4. 差消法化简高阶递推方程
 
