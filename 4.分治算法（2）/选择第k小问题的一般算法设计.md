@@ -33,6 +33,53 @@
 ```java
 借助快速排序中的Partition操作来进行划分操作。
 
+public class QuickSelectionKthNumber {
+	public static int quickSelectKth(int[] nums,int k) {
+		if(k > nums.length || k<=0)
+			return -1;
+		
+		int len = nums.length;
+		int left = 0;
+		int right = len-1;
+		int target = len - k;
+		//找第k大的元素，所以肯定是存在的，因此可以用while(true)
+		while(true) {
+			int index = partition(nums,left,right);
+			if(index == target)
+				return nums[index];
+			else if(index < target)
+				left = index + 1;
+			else
+				right = index -1;
+		}
+	}
+	
+	public static int partition(int[] nums,int left,int right) {
+		int pivot = nums[left];
+		//index用来保存划分后pivot所处位置的下标，在程序运行过程中，index是小于pivot的那部分数的边界，即[left...index]<pivot
+		int index = left;
+		for(int i=left+1;i<=right;i++) {
+			if(nums[i] < pivot) { 
+				index++;
+				swap(nums,index,i);
+			}
+		}//for
+		swap(nums,index,left);
+		return index;
+	}
+	
+	public static void swap(int[] nums,int i,int j)
+	{
+		int tmp = nums[i];
+		nums[i] = nums[j];
+		nums[j] = tmp;
+	}
+	
+	public static void main(String[] args) {
+		int[] nums = {6,5,2,-1,9,0,11,3,8};
+		System.out.println(quickSelectKth(nums,-1));
+	}
+}
 ```
 
 时间复杂度为O(k) ？好像不是。。。
