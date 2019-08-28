@@ -29,4 +29,5 @@
 
 #### 分治算法（2）
 
-1.选择第k大元素的一般算法设计与分析
+1.[选择第k大元素的一般算法设计与分析](https://github.com/JessonKang/The-design-and-analysis-of-algorithm/blob/master/4.%E5%88%86%E6%B2%BB%E7%AE%97%E6%B3%95%EF%BC%882%EF%BC%89/%E9%80%89%E6%8B%A9%E7%AC%ACk%E5%B0%8F%E9%97%AE%E9%A2%98%E7%9A%84%E4%B8%80%E8%88%AC%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1.md)
+
