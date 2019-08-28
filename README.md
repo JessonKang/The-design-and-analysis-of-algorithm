@@ -23,7 +23,10 @@
 2. [分治算法的一般描述和分析方法](https://github.com/JessonKang/The-design-and-analysis-of-algorithm/blob/master/3.%E5%88%86%E6%B2%BB%E7%AE%97%E6%B3%95%EF%BC%881%EF%BC%89/2.%E5%88%86%E6%B2%BB%E7%AE%97%E6%B3%95%E7%9A%84%E4%B8%80%E8%88%AC%E6%8F%8F%E8%BF%B0%E5%92%8C%E5%88%86%E6%9E%90%E6%96%B9%E6%B3%95.md)
 3. [芯片测试(未实现代码)](https://github.com/JessonKang/The-design-and-analysis-of-algorithm/blob/master/3.%E5%88%86%E6%B2%BB%E7%AE%97%E6%B3%95%EF%BC%881%EF%BC%89/3.%E8%8A%AF%E7%89%87%E6%B5%8B%E8%AF%95.md)
 4. 快速排序
-5. 幂乘算法及其应用(未实现求Fibonacci数代码)
-6. 改进分治算法1：减少子问题的个数[例：整数乘法、矩阵乘法]（pdf）
-7. 改进分治算法2：增加预处理[例：平面点对问题]（pdf）
+5. [幂乘算法及其应用(未实现求Fibonacci数代码)](https://github.com/JessonKang/The-design-and-analysis-of-algorithm/blob/master/3.%E5%88%86%E6%B2%BB%E7%AE%97%E6%B3%95%EF%BC%881%EF%BC%89/5.%E5%B9%82%E4%B9%98%E7%AE%97%E6%B3%95%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8.md)
+6. [改进分治算法1：减少子问题的个数[例：整数乘法、矩阵乘法]（pdf）](https://github.com/JessonKang/The-design-and-analysis-of-algorithm/blob/master/3.%E5%88%86%E6%B2%BB%E7%AE%97%E6%B3%95%EF%BC%881%EF%BC%89/6.%E6%94%B9%E8%BF%9B%E5%88%86%E6%B2%BB%E7%AE%97%E6%B3%95%E7%9A%84%E9%80%94%E5%BE%841%EF%BC%9A%E5%87%8F%E5%B0%91%E5%AD%90%E9%97%AE%E9%A2%98%E6%95%B0.pdf)
+7. [改进分治算法2：增加预处理[例：平面点对问题]（pdf）](https://github.com/JessonKang/The-design-and-analysis-of-algorithm/blob/master/3.%E5%88%86%E6%B2%BB%E7%AE%97%E6%B3%95%EF%BC%881%EF%BC%89/7.%E6%94%B9%E8%BF%9B%E5%88%86%E6%B2%BB%E7%AE%97%E6%B3%95%E7%9A%84%E9%80%94%E5%BE%842%EF%BC%9A%E5%A2%9E%E5%8A%A0%E9%A2%84%E5%A4%84%E7%90%86.pdf)
 
+#### 分治算法（2）
+
+1.选择第k大元素的一般算法设计与分析
